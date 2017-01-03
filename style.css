@@ -1,0 +1,107 @@
+div {
+    border-radius: 5px;
+    }
+    
+#header {
+    height: 100px;
+    width: 99%;
+    background-color: #ADD8E6;
+    position: fixed;
+    z-index: 1;
+    border: 1px solid black;
+    }
+    
+img {
+    height:80px;
+    width:80px;
+    padding: 10px;
+    border-radius: 100%;
+    float: left;
+}
+    
+#name {
+    margin-left: 100px;
+    line-height: 0.5em;
+    }
+    
+#address {
+    float: right;
+    line-height: 0.5em;
+    margin-top: -60px;
+    padding-right: 10px;
+    }
+
+.left {
+    height: 690px;
+    width: 24%;
+    border: 1px solid grey;
+    margin-top: 100px;   
+    float: left;
+    background-color: #EFEEEE;
+    }
+    
+.right {
+    height: 690px;
+    width: 75%;
+    border: 1px solid grey;
+    margin-top: 100px;
+    float: right;
+    background-color: #EFEEEE;
+    }
+    
+.details {
+    margin-left: 10px;
+    }
+    
+.objective {
+    /*border: 1px dashed blue;*/
+    height: 50px;
+    }
+.experience {
+    /*border: 1px dashed blue;*/
+    height: 370px;
+    }
+
+.duration1 {
+    /*border: 1px solid blue;*/
+    height: 147px;
+    }    
+    
+.duration2 {
+    /*border: 1px solid blue;*/
+    height: 147px;
+    }
+.expDuration {
+    list-style-type: none;
+    text-align: left;
+    margin-top: 45px;
+    }
+.skillDetail {
+    /*border: 1px solid red;*/
+    height: 90px;
+    }
+    
+.educationDetail {
+    /*border: 1px solid violet;*/
+    }
+
+#company1and2 {
+    /*border: 1px solid red;*/
+    position: relative;
+    margin-top: 60px;
+    }
+    
+#educationId {
+    /*border: 1px solid black;*/
+    position: relative;
+    margin-top: 40px;
+    }
+#footer {
+    height: 50px;
+    width: 99%;
+    background-color: #ADD8E6; 
+    clear: both;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+    }
